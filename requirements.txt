@@ -1,0 +1,14 @@
+streamlit==1.38.0
+SQLAlchemy==2.0.32
+psycopg[binary]==3.2.1
+python-dotenv==1.0.1
+pydantic==2.8.2
+passlib[argon2]==1.7.4
+Pillow==10.4.0
+
+# Azure AI Services
+azure-ai-vision-imageanalysis==1.0.0
+openai==1.43.0
+azure-ai-contentsafety==1.0.0
+azure-storage-blob==12.22.0
+azure-identity==1.17.1
